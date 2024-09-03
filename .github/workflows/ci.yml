@@ -27,7 +27,5 @@ jobs:
 
     - name: Run Tests
       run: |
-        # Add your test commands here, for example:
+        # Run your tests; adjust the command based on your test framework
         python -m unittest discover tests
-
-        
