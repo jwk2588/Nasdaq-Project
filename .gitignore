@@ -8,3 +8,8 @@ __pycache__/
 # Ignore VS Code workspace settings
 *.code-workspace
 .vscode/
+
+# Ignore GitHub token files
+GitHub token .txt
+github_token_backup.txt
+github_token_refresh.txt
