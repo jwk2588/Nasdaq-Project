@@ -14,3 +14,4 @@ GitHub token .txt
 github_token_backup.txt
 github_token_refresh.txt
 ~$financial_data.xlsx
+~$*.xlsx
